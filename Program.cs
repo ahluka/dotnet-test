@@ -11,6 +11,7 @@ namespace dotnet_test
 
             foreach (var name in names) {
                 Console.WriteLine($"Hello {name}!");
+                Console.WriteLine("TIMMY!");
             }
         }
     }
